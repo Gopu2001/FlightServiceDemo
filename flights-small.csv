@@ -1,0 +1,1000 @@
+1,7,1,5,AA,1,New York NY,New York,Los Angeles CA,California,-4,29,9,0,360,2475,10,480
+2,7,2,6,AA,1,New York NY,New York,Los Angeles CA,California,-7,13,-10,0,344,2475,11,817
+3,7,3,7,AA,1,New York NY,New York,Los Angeles CA,California,-1,17,-4,0,344,2475,14,789
+4,7,4,1,AA,1,New York NY,New York,Los Angeles CA,California,-9,20,17,0,373,2475,3,523
+5,7,5,2,AA,1,New York NY,New York,Los Angeles CA,California,-6,32,12,0,365,2475,8,606
+6,7,6,3,AA,1,New York NY,New York,Los Angeles CA,California,-4,34,13,0,364,2475,0,979
+7,7,7,4,AA,1,New York NY,New York,Los Angeles CA,California,-4,16,-7,0,344,2475,6,516
+8,7,8,5,AA,1,New York NY,New York,Los Angeles CA,California,25,35,22,0,344,2475,0,292
+9,7,9,6,AA,1,New York NY,New York,Los Angeles CA,California,-4,30,-5,0,346,2475,15,201
+10,7,10,7,AA,1,New York NY,New York,Los Angeles CA,California,-4,29,-11,0,340,2475,2,782
+11,7,11,1,AA,1,New York NY,New York,Los Angeles CA,California,-2,28,-3,0,346,2475,10,539
+12,7,12,2,AA,1,New York NY,New York,Los Angeles CA,California,-3,25,-20,0,330,2475,1,464
+13,7,13,3,AA,1,New York NY,New York,Los Angeles CA,California,-6,57,-1,0,352,2475,11,847
+14,7,14,4,AA,1,New York NY,New York,Los Angeles CA,California,-1,29,-9,0,339,2475,19,749
+15,7,15,5,AA,1,New York NY,New York,Los Angeles CA,California,-5,29,-18,0,334,2475,4,650
+16,7,16,6,AA,1,New York NY,New York,Los Angeles CA,California,-8,19,-26,0,329,2475,5,433
+17,7,17,7,AA,1,New York NY,New York,Los Angeles CA,California,55,25,45,0,337,2475,17,625
+18,7,18,1,AA,1,New York NY,New York,Los Angeles CA,California,5,24,30,0,372,2475,1,566
+19,7,19,2,AA,1,New York NY,New York,Los Angeles CA,California,-1,19,-3,0,345,2475,17,374
+20,7,20,3,AA,1,New York NY,New York,Los Angeles CA,California,-7,31,-5,0,349,2475,19,386
+21,7,21,4,AA,1,New York NY,New York,Los Angeles CA,California,-6,34,-3,0,350,2475,8,666
+22,7,22,5,AA,1,New York NY,New York,Los Angeles CA,California,-2,17,-12,0,337,2475,15,532
+23,7,23,6,AA,1,New York NY,New York,Los Angeles CA,California,-3,24,5,0,355,2475,6,593
+24,7,24,7,AA,1,New York NY,New York,Los Angeles CA,California,1,25,5,0,351,2475,0,376
+25,7,25,1,AA,1,New York NY,New York,Los Angeles CA,California,186,24,189,0,350,2475,4,129
+26,7,26,2,AA,1,New York NY,New York,Los Angeles CA,California,3,25,20,0,364,2475,0,887
+27,7,27,3,AA,1,New York NY,New York,Los Angeles CA,California,-4,21,-8,0,343,2475,17,382
+28,7,28,4,AA,1,New York NY,New York,Los Angeles CA,California,-1,35,10,0,358,2475,16,133
+29,7,29,5,AA,1,New York NY,New York,Los Angeles CA,California,0,42,9,0,356,2475,15,607
+30,7,30,6,AA,1,New York NY,New York,Los Angeles CA,California,-3,35,-5,0,345,2475,15,795
+31,7,31,7,AA,1,New York NY,New York,Los Angeles CA,California,-1,14,-10,0,338,2475,18,162
+32,7,1,5,AA,2,Los Angeles CA,California,New York NY,New York,183,28,191,0,334,2475,9,668
+33,7,2,6,AA,2,Los Angeles CA,California,New York NY,New York,-3,20,-18,0,311,2475,12,911
+34,7,3,7,AA,2,Los Angeles CA,California,New York NY,New York,0,16,-10,0,316,2475,6,526
+35,7,4,1,AA,2,Los Angeles CA,California,New York NY,New York,-2,18,-20,0,308,2475,15,930
+36,7,5,2,AA,2,Los Angeles CA,California,New York NY,New York,-11,15,-22,0,315,2475,13,752
+37,7,6,3,AA,2,Los Angeles CA,California,New York NY,New York,0,20,3,0,329,2475,13,452
+38,7,7,4,AA,2,Los Angeles CA,California,New York NY,New York,-6,23,-11,0,321,2475,16,101
+39,7,8,5,AA,2,Los Angeles CA,California,New York NY,New York,10,25,59,0,375,2475,2,240
+40,7,9,6,AA,2,Los Angeles CA,California,New York NY,New York,-6,15,-5,0,327,2475,15,838
+41,7,10,7,AA,2,Los Angeles CA,California,New York NY,New York,19,12,14,0,321,2475,0,474
+42,7,11,1,AA,2,Los Angeles CA,California,New York NY,New York,0,22,35,0,361,2475,7,697
+43,7,12,2,AA,2,Los Angeles CA,California,New York NY,New York,-4,20,15,0,345,2475,4,462
+44,7,13,3,AA,2,Los Angeles CA,California,New York NY,New York,0,17,18,0,344,2475,0,458
+45,7,14,4,AA,2,Los Angeles CA,California,New York NY,New York,0,19,23,0,349,2475,17,645
+46,7,15,5,AA,2,Los Angeles CA,California,New York NY,New York,-2,20,17,0,345,2475,12,849
+47,7,16,6,AA,2,Los Angeles CA,California,New York NY,New York,10,27,43,0,359,2475,12,644
+48,7,17,7,AA,2,Los Angeles CA,California,New York NY,New York,56,36,113,0,383,2475,18,141
+49,7,18,1,AA,2,Los Angeles CA,California,New York NY,New York,52,23,79,0,353,2475,1,498
+50,7,19,2,AA,2,Los Angeles CA,California,New York NY,New York,3,14,13,0,336,2475,2,588
+51,7,20,3,AA,2,Los Angeles CA,California,New York NY,New York,-1,48,38,0,365,2475,15,920
+52,7,21,4,AA,2,Los Angeles CA,California,New York NY,New York,27,14,26,0,325,2475,16,986
+53,7,22,5,AA,2,Los Angeles CA,California,New York NY,New York,15,20,15,0,326,2475,11,911
+54,7,23,6,AA,2,Los Angeles CA,California,New York NY,New York,12,25,23,0,337,2475,14,613
+55,7,24,7,AA,2,Los Angeles CA,California,New York NY,New York,-3,35,20,0,349,2475,16,547
+56,7,25,1,AA,2,Los Angeles CA,California,New York NY,New York,-4,25,5,0,335,2475,7,959
+57,7,26,2,AA,2,Los Angeles CA,California,New York NY,New York,39,19,51,0,338,2475,14,806
+58,7,27,3,AA,2,Los Angeles CA,California,New York NY,New York,-1,15,17,0,344,2475,2,862
+59,7,28,4,AA,2,Los Angeles CA,California,New York NY,New York,103,12,84,0,307,2475,3,839
+60,7,29,5,AA,2,Los Angeles CA,California,New York NY,New York,45,14,49,0,330,2475,17,631
+61,7,30,6,AA,2,Los Angeles CA,California,New York NY,New York,-4,26,2,0,332,2475,1,301
+62,7,31,7,AA,2,Los Angeles CA,California,New York NY,New York,-4,13,-10,0,320,2475,16,672
+63,7,1,5,AA,3,New York NY,New York,Los Angeles CA,California,-9,16,6,0,355,2475,3,502
+64,7,2,6,AA,3,New York NY,New York,Los Angeles CA,California,-8,14,-1,0,347,2475,13,520
+65,7,3,7,AA,3,New York NY,New York,Los Angeles CA,California,9,16,11,0,342,2475,13,964
+66,7,4,1,AA,3,New York NY,New York,Los Angeles CA,California,56,16,42,0,326,2475,19,841
+67,7,5,2,AA,3,New York NY,New York,Los Angeles CA,California,-1,18,10,0,351,2475,10,837
+68,7,6,3,AA,3,New York NY,New York,Los Angeles CA,California,-3,17,14,0,357,2475,3,773
+69,7,7,4,AA,3,New York NY,New York,Los Angeles CA,California,-6,17,-5,0,341,2475,11,339
+70,7,8,5,AA,3,New York NY,New York,Los Angeles CA,California,0,23,4,0,344,2475,3,278
+71,7,9,6,AA,3,New York NY,New York,Los Angeles CA,California,-8,14,-7,0,341,2475,15,328
+72,7,10,7,AA,3,New York NY,New York,Los Angeles CA,California,12,16,11,0,339,2475,11,220
+73,7,11,1,AA,3,New York NY,New York,Los Angeles CA,California,1,13,-13,0,326,2475,15,226
+74,7,12,2,AA,3,New York NY,New York,Los Angeles CA,California,-7,30,-18,0,329,2475,4,674
+75,7,13,3,AA,3,New York NY,New York,Los Angeles CA,California,-6,183,141,0,487,2475,17,789
+76,7,14,4,AA,3,New York NY,New York,Los Angeles CA,California,0,20,-1,0,339,2475,18,304
+77,7,15,5,AA,3,New York NY,New York,Los Angeles CA,California,-2,20,-10,0,332,2475,18,514
+78,7,16,6,AA,3,New York NY,New York,Los Angeles CA,California,-7,18,-15,0,332,2475,12,419
+79,7,17,7,AA,3,New York NY,New York,Los Angeles CA,California,-2,23,-3,0,339,2475,8,511
+80,7,18,1,AA,3,New York NY,New York,Los Angeles CA,California,-2,16,1,0,343,2475,0,703
+81,7,19,2,AA,3,New York NY,New York,Los Angeles CA,California,-5,20,-12,0,333,2475,10,835
+82,7,20,3,AA,3,New York NY,New York,Los Angeles CA,California,-5,16,-5,0,340,2475,3,793
+83,7,21,4,AA,3,New York NY,New York,Los Angeles CA,California,-7,26,-6,0,341,2475,13,703
+84,7,22,5,AA,3,New York NY,New York,Los Angeles CA,California,-8,28,-6,0,342,2475,8,845
+85,7,23,6,AA,3,New York NY,New York,Los Angeles CA,California,31,18,7,0,316,2475,4,860
+86,7,24,7,AA,3,New York NY,New York,Los Angeles CA,California,-6,16,-15,0,331,2475,12,510
+87,7,25,1,AA,3,New York NY,New York,Los Angeles CA,California,-4,28,-6,0,338,2475,2,159
+88,7,26,2,AA,3,New York NY,New York,Los Angeles CA,California,-8,21,-18,0,330,2475,5,211
+89,7,27,3,AA,3,New York NY,New York,Los Angeles CA,California,-1,19,3,0,344,2475,5,336
+90,7,28,4,AA,3,New York NY,New York,Los Angeles CA,California,-6,20,8,0,354,2475,10,150
+91,7,29,5,AA,3,New York NY,New York,Los Angeles CA,California,-4,13,-8,0,336,2475,11,191
+92,7,30,6,AA,3,New York NY,New York,Los Angeles CA,California,291,20,293,0,342,2475,12,193
+93,7,31,7,AA,3,New York NY,New York,Los Angeles CA,California,-5,15,-11,0,334,2475,0,202
+94,7,1,5,AA,4,Los Angeles CA,California,New York NY,New York,308,15,290,0,311,2475,5,808
+95,7,2,6,AA,4,Los Angeles CA,California,New York NY,New York,43,21,32,0,318,2475,6,400
+96,7,3,7,AA,4,Los Angeles CA,California,New York NY,New York,9,10,-17,0,303,2475,19,783
+97,7,4,1,AA,4,Los Angeles CA,California,New York NY,New York,-3,15,-3,0,329,2475,18,923
+98,7,5,2,AA,4,Los Angeles CA,California,New York NY,New York,0,19,7,0,336,2475,10,946
+99,7,6,3,AA,4,Los Angeles CA,California,New York NY,New York,-3,15,0,0,332,2475,1,104
+100,7,7,4,AA,4,Los Angeles CA,California,New York NY,New York,-4,12,-10,0,323,2475,17,969
+101,7,8,5,AA,4,Los Angeles CA,California,New York NY,New York,-6,17,20,0,355,2475,2,927
+102,7,9,6,AA,4,Los Angeles CA,California,New York NY,New York,1,13,-5,0,323,2475,5,756
+103,7,10,7,AA,4,Los Angeles CA,California,New York NY,New York,-1,17,10,0,340,2475,4,744
+104,7,11,1,AA,4,Los Angeles CA,California,New York NY,New York,-1,17,3,0,333,2475,8,296
+105,7,12,2,AA,4,Los Angeles CA,California,New York NY,New York,-3,14,-9,0,323,2475,2,232
+106,7,13,3,AA,4,Los Angeles CA,California,New York NY,New York,-4,13,35,0,368,2475,4,677
+107,7,14,4,AA,4,Los Angeles CA,California,New York NY,New York,-1,16,23,0,353,2475,1,426
+108,7,15,5,AA,4,Los Angeles CA,California,New York NY,New York,2,14,7,0,334,2475,8,918
+109,7,16,6,AA,4,Los Angeles CA,California,New York NY,New York,3,27,61,0,387,2475,7,155
+110,7,17,7,AA,4,Los Angeles CA,California,New York NY,New York,-2,16,66,0,397,2475,13,569
+111,7,18,1,AA,4,Los Angeles CA,California,New York NY,New York,4,59,93,0,418,2475,1,672
+112,7,19,2,AA,4,Los Angeles CA,California,New York NY,New York,-2,24,19,0,350,2475,3,317
+113,7,20,3,AA,4,Los Angeles CA,California,New York NY,New York,16,17,20,0,333,2475,7,698
+114,7,21,4,AA,4,Los Angeles CA,California,New York NY,New York,-1,17,24,0,354,2475,9,294
+115,7,22,5,AA,4,Los Angeles CA,California,New York NY,New York,-4,18,10,0,343,2475,12,597
+116,7,23,6,AA,4,Los Angeles CA,California,New York NY,New York,-3,14,-3,0,329,2475,14,644
+117,7,24,7,AA,4,Los Angeles CA,California,New York NY,New York,-7,14,-10,0,326,2475,17,770
+118,7,25,1,AA,4,Los Angeles CA,California,New York NY,New York,49,18,55,0,335,2475,0,115
+119,7,26,2,AA,4,Los Angeles CA,California,New York NY,New York,-1,15,-4,0,326,2475,9,785
+120,7,27,3,AA,4,Los Angeles CA,California,New York NY,New York,0,29,51,0,380,2475,6,537
+121,7,28,4,AA,4,Los Angeles CA,California,New York NY,New York,7,16,1,0,323,2475,19,324
+122,7,29,5,AA,4,Los Angeles CA,California,New York NY,New York,33,14,71,0,367,2475,6,442
+123,7,30,6,AA,4,Los Angeles CA,California,New York NY,New York,13,24,19,0,335,2475,15,289
+124,7,31,7,AA,4,Los Angeles CA,California,New York NY,New York,16,13,28,0,341,2475,1,314
+125,7,1,5,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-1,19,20,0,507,3784,10,275
+126,7,2,6,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,7,22,16,0,495,3784,5,500
+127,7,3,7,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-2,23,11,0,499,3784,13,603
+128,7,4,1,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-2,20,1,0,489,3784,18,445
+129,7,5,2,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,4,91,79,0,561,3784,15,535
+130,7,6,3,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,0,21,-2,0,484,3784,9,910
+131,7,7,4,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,140,21,139,0,485,3784,17,333
+132,7,8,5,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-1,16,-10,0,477,3784,2,445
+133,7,9,6,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,2,29,0,0,484,3784,0,844
+134,7,10,7,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,0,31,-7,0,479,3784,19,652
+135,7,11,1,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-2,24,-7,0,481,3784,15,280
+136,7,12,2,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-1,20,-14,0,473,3784,0,897
+137,7,13,3,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,2,18,-1,0,483,3784,12,125
+138,7,14,4,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,3,29,-1,0,482,3784,13,553
+139,7,15,5,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,12,27,-4,0,470,3784,4,108
+140,7,16,6,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,4,16,-8,0,474,3784,3,813
+141,7,17,7,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-6,9,-23,0,469,3784,17,513
+142,7,18,1,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-6,16,0,0,492,3784,2,990
+143,7,19,2,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,1,19,0,0,485,3784,18,370
+144,7,20,3,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,1,18,-5,0,480,3784,13,314
+145,7,21,4,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-5,22,-2,0,489,3784,16,900
+146,7,22,5,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,13,12,3,0,476,3784,9,499
+147,7,23,6,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-3,16,-5,0,484,3784,1,809
+148,7,24,7,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,16,18,9,0,479,3784,5,708
+149,7,25,1,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,0,19,-6,0,480,3784,19,743
+150,7,26,2,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-2,18,-11,0,477,3784,19,528
+151,7,27,3,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,10,23,4,0,480,3784,16,243
+152,7,28,4,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,-2,20,1,0,489,3784,2,280
+153,7,29,5,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,81,19,51,0,456,3784,0,656
+154,7,30,6,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,25,16,23,0,484,3784,8,336
+155,7,31,7,AA,5,Dallas/Fort Worth TX,Texas,Honolulu HI,Hawaii,31,14,29,0,484,3784,6,836
+156,7,1,5,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,4,9,-5,0,421,3711,1,450
+157,7,2,6,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,206,9,183,0,407,3711,2,713
+158,7,3,7,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-9,19,-11,0,428,3711,6,117
+159,7,4,1,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,4,9,-13,0,413,3711,6,129
+160,7,5,2,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,108,11,108,0,430,3711,0,268
+161,7,6,3,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,18,10,20,0,432,3711,17,946
+162,7,7,4,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,66,11,63,0,427,3711,2,942
+163,7,8,5,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-5,12,-2,0,433,3711,17,192
+164,7,9,6,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-3,18,6,0,439,3711,4,227
+165,7,10,7,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-5,7,-6,0,429,3711,17,946
+166,7,11,1,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-4,7,1,0,435,3711,11,917
+167,7,12,2,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-4,10,10,0,444,3711,10,657
+168,7,13,3,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,0,12,10,0,440,3711,13,124
+169,7,14,4,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,54,13,61,0,437,3711,15,103
+170,7,15,5,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-3,10,0,0,433,3711,15,975
+171,7,16,6,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-5,7,-12,0,423,3711,8,628
+172,7,17,7,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,5,8,6,0,431,3711,6,657
+173,7,18,1,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,1,14,5,0,434,3711,17,448
+174,7,19,2,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,0,9,-5,0,425,3711,16,728
+175,7,20,3,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-5,9,-6,0,429,3711,8,395
+176,7,21,4,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-7,8,-14,0,423,3711,17,751
+177,7,22,5,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,68,8,56,0,418,3711,15,543
+178,7,23,6,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-5,10,-11,0,424,3711,10,777
+179,7,24,7,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-2,12,-2,0,430,3711,3,360
+180,7,25,1,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-6,8,-4,0,432,3711,1,802
+181,7,26,2,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-1,9,-4,0,427,3711,17,140
+182,7,27,3,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,0,7,-2,0,428,3711,12,631
+183,7,28,4,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-12,12,-13,0,429,3711,15,665
+184,7,29,5,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,57,7,43,0,416,3711,10,661
+185,7,30,6,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-1,9,-16,0,415,3711,10,215
+186,7,31,7,AA,6,Kahului HI,Hawaii,Dallas/Fort Worth TX,Texas,-3,11,-11,0,422,3711,7,163
+187,7,1,5,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-3,57,44,0,526,3711,11,355
+188,7,2,6,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,262,22,253,0,470,3711,2,709
+189,7,3,7,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-2,13,-11,0,470,3711,12,342
+190,7,4,1,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-5,33,13,0,497,3711,12,270
+191,7,5,2,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,28,38,371,0,180,3711,19,772
+192,7,6,3,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-2,22,-11,0,470,3711,1,308
+193,7,7,4,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,107,22,102,0,474,3711,13,784
+194,7,8,5,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-1,19,-11,0,469,3711,2,123
+195,7,9,6,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-7,25,-21,0,465,3711,16,771
+196,7,10,7,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,41,19,14,0,452,3711,17,686
+197,7,11,1,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,1,23,-9,0,469,3711,16,172
+198,7,12,2,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,0,31,-8,0,471,3711,0,574
+199,7,13,3,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-4,25,-9,0,474,3711,16,122
+200,7,14,4,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-2,20,-17,0,464,3711,6,321
+201,7,15,5,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-2,21,-6,0,475,3711,6,980
+202,7,16,6,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,13,22,6,0,472,3711,7,669
+203,7,17,7,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,0,24,-2,0,477,3711,16,921
+204,7,18,1,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,39,27,46,0,486,3711,11,135
+205,7,19,2,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-3,22,35,0,517,3711,2,702
+206,7,20,3,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-1,20,31,0,511,3711,3,783
+207,7,21,4,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-4,31,10,0,493,3711,1,671
+208,7,22,5,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,75,18,72,0,476,3711,1,363
+209,7,23,6,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,21,14,7,0,465,3711,3,940
+210,7,24,7,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-3,23,-6,0,476,3711,16,466
+211,7,25,1,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,5,26,3,0,477,3711,16,735
+212,7,26,2,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-2,22,-5,0,476,3711,1,293
+213,7,27,3,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-2,26,0,0,481,3711,0,755
+214,7,28,4,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-8,23,-5,0,482,3711,0,211
+215,7,29,5,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,90,21,91,0,480,3711,0,385
+216,7,30,6,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,37,23,46,0,488,3711,6,912
+217,7,31,7,AA,7,Dallas/Fort Worth TX,Texas,Kahului HI,Hawaii,-9,27,3,0,491,3711,16,329
+218,7,1,5,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,14,16,-6,0,424,3784,18,813
+219,7,2,6,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,0,12,-22,0,422,3784,3,158
+220,7,3,7,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-4,14,-15,0,433,3784,8,337
+221,7,4,1,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-4,15,-17,0,431,3784,4,874
+222,7,5,2,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,2,13,5,0,447,3784,3,390
+223,7,6,3,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-6,21,12,0,462,3784,7,837
+224,7,7,4,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,18,15,19,0,445,3784,0,883
+225,7,8,5,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-4,18,6,0,454,3784,14,588
+226,7,9,6,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-6,14,-1,0,449,3784,10,894
+227,7,10,7,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-7,15,-2,0,449,3784,5,656
+228,7,11,1,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-7,13,2,0,453,3784,5,291
+229,7,12,2,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,0,15,9,0,453,3784,5,702
+230,7,13,3,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,91,15,101,0,454,3784,14,654
+231,7,14,4,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-3,16,3,0,450,3784,10,688
+232,7,15,5,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-4,15,-4,0,444,3784,7,877
+233,7,16,6,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-2,18,-4,0,442,3784,6,382
+234,7,17,7,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,1,13,-4,0,439,3784,12,766
+235,7,18,1,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-8,14,-13,0,439,3784,9,807
+236,7,19,2,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-2,14,-5,0,441,3784,9,801
+237,7,20,3,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-3,15,-5,0,442,3784,5,958
+238,7,21,4,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-4,17,-7,0,441,3784,4,204
+239,7,22,5,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-8,16,-13,0,439,3784,8,336
+240,7,23,6,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-2,14,-11,0,435,3784,14,301
+241,7,24,7,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-6,15,-4,0,446,3784,14,841
+242,7,25,1,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,21,24,23,0,446,3784,2,103
+243,7,26,2,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,13,13,17,0,448,3784,7,881
+244,7,27,3,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-6,16,-6,0,444,3784,14,284
+245,7,28,4,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-5,18,-3,0,446,3784,18,821
+246,7,29,5,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-5,13,-14,0,435,3784,13,472
+247,7,30,6,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,-3,14,-16,0,431,3784,19,740
+248,7,31,7,AA,8,Honolulu HI,Hawaii,Dallas/Fort Worth TX,Texas,0,19,-5,0,439,3784,19,477
+249,7,1,5,AA,10,Los Angeles CA,California,New York NY,New York,-2,16,-11,0,309,2475,4,360
+250,7,2,6,AA,10,Los Angeles CA,California,New York NY,New York,-5,21,-18,0,305,2475,8,331
+251,7,3,7,AA,10,Los Angeles CA,California,New York NY,New York,14,16,6,0,310,2475,14,165
+252,7,4,1,AA,10,Los Angeles CA,California,New York NY,New York,-3,15,-21,0,300,2475,8,815
+253,7,5,2,AA,10,Los Angeles CA,California,New York NY,New York,4,20,2,0,316,2475,13,248
+254,7,6,3,AA,10,Los Angeles CA,California,New York NY,New York,26,25,260,0,152,2475,10,115
+255,7,7,4,AA,10,Los Angeles CA,California,New York NY,New York,-4,22,28,0,329,2475,15,580
+256,7,8,5,AA,10,Los Angeles CA,California,New York NY,New York,-6,25,-7,0,317,2475,10,461
+257,7,9,6,AA,10,Los Angeles CA,California,New York NY,New York,-1,22,3,0,322,2475,3,676
+258,7,10,7,AA,10,Los Angeles CA,California,New York NY,New York,-4,15,-1,0,321,2475,4,624
+259,7,11,1,AA,10,Los Angeles CA,California,New York NY,New York,4,18,20,0,334,2475,6,213
+260,7,12,2,AA,10,Los Angeles CA,California,New York NY,New York,7,18,15,0,326,2475,19,585
+261,7,13,3,AA,10,Los Angeles CA,California,New York NY,New York,4,18,9,0,323,2475,11,959
+262,7,14,4,AA,10,Los Angeles CA,California,New York NY,New York,-5,17,-1,0,322,2475,15,348
+263,7,15,5,AA,10,Los Angeles CA,California,New York NY,New York,10,20,14,0,322,2475,19,432
+264,7,16,6,AA,10,Los Angeles CA,California,New York NY,New York,-2,16,-5,0,315,2475,9,445
+265,7,17,7,AA,10,Los Angeles CA,California,New York NY,New York,1,14,7,0,324,2475,7,879
+266,7,18,1,AA,10,Los Angeles CA,California,New York NY,New York,-1,15,-10,0,309,2475,4,401
+267,7,19,2,AA,10,Los Angeles CA,California,New York NY,New York,13,33,33,0,338,2475,4,634
+268,7,20,3,AA,10,Los Angeles CA,California,New York NY,New York,-4,22,13,0,335,2475,12,871
+269,7,21,4,AA,10,Los Angeles CA,California,New York NY,New York,0,30,14,0,332,2475,0,551
+270,7,22,5,AA,10,Los Angeles CA,California,New York NY,New York,-1,19,2,0,321,2475,9,919
+271,7,23,6,AA,10,Los Angeles CA,California,New York NY,New York,-2,17,-6,0,314,2475,3,871
+272,7,24,7,AA,10,Los Angeles CA,California,New York NY,New York,2,18,2,0,318,2475,1,731
+273,7,25,1,AA,10,Los Angeles CA,California,New York NY,New York,20,28,37,0,335,2475,18,969
+274,7,26,2,AA,10,Los Angeles CA,California,New York NY,New York,34,18,30,0,314,2475,3,388
+275,7,27,3,AA,10,Los Angeles CA,California,New York NY,New York,-3,15,-23,0,298,2475,7,832
+276,7,28,4,AA,10,Los Angeles CA,California,New York NY,New York,-4,18,-13,0,309,2475,6,497
+277,7,29,5,AA,10,Los Angeles CA,California,New York NY,New York,78,21,80,0,320,2475,13,974
+278,7,30,6,AA,10,Los Angeles CA,California,New York NY,New York,-2,19,-6,0,314,2475,17,137
+279,7,31,7,AA,10,Los Angeles CA,California,New York NY,New York,-4,14,-5,0,317,2475,7,176
+280,7,1,5,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,24,6,17,0,288,2486,18,598
+281,7,2,6,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,1,7,-5,0,289,2486,0,932
+282,7,3,7,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,0,8,0,0,295,2486,5,174
+283,7,4,1,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-6,9,3,0,304,2486,9,741
+284,7,5,2,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-6,12,-5,0,296,2486,15,631
+285,7,6,3,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,46,9,48,0,297,2486,10,209
+286,7,7,4,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-7,11,-6,0,296,2486,8,796
+287,7,8,5,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,4,9,7,0,298,2486,12,869
+288,7,9,6,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-10,7,-7,0,298,2486,4,302
+289,7,10,7,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-7,9,0,0,302,2486,9,990
+290,7,11,1,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-11,10,0,0,306,2486,15,694
+291,7,12,2,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-14,8,-13,0,296,2486,4,226
+292,7,13,3,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-3,10,3,0,301,2486,10,986
+293,7,14,4,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-6,12,1,0,302,2486,4,158
+294,7,15,5,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,1,9,3,0,297,2486,6,761
+295,7,16,6,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,66,8,61,0,290,2486,2,223
+296,7,17,7,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-3,8,-2,0,296,2486,19,774
+297,7,18,1,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-8,8,-13,0,290,2486,18,296
+298,7,19,2,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-4,6,-16,0,283,2486,19,707
+299,7,20,3,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-7,10,-12,0,290,2486,11,994
+300,7,21,4,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,43,7,26,0,278,2486,13,538
+301,7,22,5,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-6,7,-14,0,287,2486,16,485
+302,7,23,6,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-6,8,-17,0,284,2486,17,193
+303,7,24,7,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-8,7,-16,0,287,2486,8,719
+304,7,25,1,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-1,13,9,0,305,2486,11,102
+305,7,26,2,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-2,12,7,0,304,2486,15,184
+306,7,27,3,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-9,12,0,0,304,2486,8,843
+307,7,28,4,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-2,8,-10,0,287,2486,17,228
+308,7,29,5,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,-5,10,-16,0,284,2486,2,500
+309,7,30,6,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,0,9,-6,0,289,2486,1,104
+310,7,31,7,AA,14,Kahului HI,Hawaii,Los Angeles CA,California,7,9,6,0,294,2486,9,135
+311,7,1,5,AA,15,New York NY,New York,San Francisco CA,California,-8,15,-9,0,354,2586,9,946
+312,7,2,6,AA,15,New York NY,New York,San Francisco CA,California,32,17,22,0,345,2586,19,924
+313,7,3,7,AA,15,New York NY,New York,San Francisco CA,California,4,16,-4,0,347,2586,7,921
+314,7,4,1,AA,15,New York NY,New York,San Francisco CA,California,-6,13,-11,0,350,2586,18,502
+315,7,5,2,AA,15,New York NY,New York,San Francisco CA,California,6,16,-3,0,346,2586,9,376
+316,7,6,3,AA,15,New York NY,New York,San Francisco CA,California,-7,17,-11,0,351,2586,7,358
+317,7,7,4,AA,15,New York NY,New York,San Francisco CA,California,-4,19,-9,0,350,2586,1,775
+318,7,8,5,AA,15,New York NY,New York,San Francisco CA,California,-3,17,-14,0,344,2586,16,767
+319,7,9,6,AA,15,New York NY,New York,San Francisco CA,California,-6,17,-25,0,336,2586,16,581
+320,7,10,7,AA,15,New York NY,New York,San Francisco CA,California,-1,19,-21,0,335,2586,14,654
+321,7,11,1,AA,15,New York NY,New York,San Francisco CA,California,-2,69,37,0,394,2586,17,353
+322,7,12,2,AA,15,New York NY,New York,San Francisco CA,California,-6,19,-31,0,330,2586,14,390
+323,7,13,3,AA,15,New York NY,New York,San Francisco CA,California,18,126,111,0,448,2586,0,307
+324,7,14,4,AA,15,New York NY,New York,San Francisco CA,California,-8,28,-24,0,339,2586,9,644
+325,7,15,5,AA,15,New York NY,New York,San Francisco CA,California,-2,18,-25,0,332,2586,8,734
+326,7,16,6,AA,15,New York NY,New York,San Francisco CA,California,-2,18,-12,0,345,2586,16,578
+327,7,17,7,AA,15,New York NY,New York,San Francisco CA,California,-5,25,-10,0,350,2586,18,574
+328,7,18,1,AA,15,New York NY,New York,San Francisco CA,California,-1,17,-3,0,353,2586,19,928
+329,7,19,2,AA,15,New York NY,New York,San Francisco CA,California,6,18,0,0,349,2586,12,388
+330,7,20,3,AA,15,New York NY,New York,San Francisco CA,California,1,20,-15,0,339,2586,14,852
+331,7,21,4,AA,15,New York NY,New York,San Francisco CA,California,-4,17,-35,0,324,2586,11,572
+332,7,22,5,AA,15,New York NY,New York,San Francisco CA,California,-6,18,-19,0,342,2586,7,649
+333,7,23,6,AA,15,New York NY,New York,San Francisco CA,California,0,14,-21,0,334,2586,19,365
+334,7,24,7,AA,15,New York NY,New York,San Francisco CA,California,-1,19,-8,0,348,2586,12,874
+335,7,25,1,AA,15,New York NY,New York,San Francisco CA,California,-5,41,15,0,375,2586,11,627
+336,7,26,2,AA,15,New York NY,New York,San Francisco CA,California,-2,13,-19,0,338,2586,0,422
+337,7,27,3,AA,15,New York NY,New York,San Francisco CA,California,-2,15,-3,0,354,2586,18,757
+338,7,28,4,AA,15,New York NY,New York,San Francisco CA,California,-3,21,-5,0,353,2586,9,274
+339,7,29,5,AA,15,New York NY,New York,San Francisco CA,California,-3,21,-2,0,356,2586,17,208
+340,7,30,6,AA,15,New York NY,New York,San Francisco CA,California,29,17,3,0,329,2586,19,335
+341,7,31,7,AA,15,New York NY,New York,San Francisco CA,California,-7,16,-20,0,342,2586,15,719
+342,7,1,5,AA,16,San Francisco CA,California,New York NY,New York,3,39,35,0,367,2586,13,511
+343,7,2,6,AA,16,San Francisco CA,California,New York NY,New York,-3,22,-14,0,324,2586,9,750
+344,7,3,7,AA,16,San Francisco CA,California,New York NY,New York,-1,12,-8,0,328,2586,1,931
+345,7,4,1,AA,16,San Francisco CA,California,New York NY,New York,-4,17,-12,0,327,2586,9,791
+346,7,5,2,AA,16,San Francisco CA,California,New York NY,New York,-4,32,41,0,380,2586,19,862
+347,7,6,3,AA,16,San Francisco CA,California,New York NY,New York,-6,14,-6,0,335,2586,9,192
+348,7,7,4,AA,16,San Francisco CA,California,New York NY,New York,-5,15,-14,0,326,2586,15,442
+349,7,8,5,AA,16,San Francisco CA,California,New York NY,New York,-6,43,27,0,368,2586,12,353
+350,7,9,6,AA,16,San Francisco CA,California,New York NY,New York,0,10,-9,0,326,2586,8,501
+351,7,10,7,AA,16,San Francisco CA,California,New York NY,New York,83,22,80,0,332,2586,11,854
+352,7,11,1,AA,16,San Francisco CA,California,New York NY,New York,-5,10,-15,0,325,2586,1,577
+353,7,12,2,AA,16,San Francisco CA,California,New York NY,New York,-1,13,3,0,339,2586,7,735
+354,7,13,3,AA,16,San Francisco CA,California,New York NY,New York,-5,19,22,0,362,2586,19,819
+355,7,14,4,AA,16,San Francisco CA,California,New York NY,New York,-5,11,-8,0,332,2586,12,696
+356,7,15,5,AA,16,San Francisco CA,California,New York NY,New York,0,0,0,1,0,2586,5,799
+357,7,16,6,AA,16,San Francisco CA,California,New York NY,New York,92,23,127,0,370,2586,9,960
+358,7,17,7,AA,16,San Francisco CA,California,New York NY,New York,129,27,168,0,374,2586,13,501
+359,7,18,1,AA,16,San Francisco CA,California,New York NY,New York,-3,74,82,0,420,2586,4,655
+360,7,19,2,AA,16,San Francisco CA,California,New York NY,New York,-3,19,2,0,340,2586,17,844
+361,7,20,3,AA,16,San Francisco CA,California,New York NY,New York,19,37,41,0,357,2586,10,122
+362,7,21,4,AA,16,San Francisco CA,California,New York NY,New York,12,10,6,0,329,2586,0,754
+363,7,22,5,AA,16,San Francisco CA,California,New York NY,New York,-4,14,25,0,364,2586,3,945
+364,7,23,6,AA,16,San Francisco CA,California,New York NY,New York,-1,13,28,0,364,2586,6,531
+365,7,24,7,AA,16,San Francisco CA,California,New York NY,New York,-4,15,-7,0,332,2586,10,905
+366,7,25,1,AA,16,San Francisco CA,California,New York NY,New York,-3,29,1,0,339,2586,17,145
+367,7,26,2,AA,16,San Francisco CA,California,New York NY,New York,-4,15,39,0,378,2586,12,236
+368,7,27,3,AA,16,San Francisco CA,California,New York NY,New York,-4,35,41,0,380,2586,4,355
+369,7,28,4,AA,16,San Francisco CA,California,New York NY,New York,2,35,17,0,350,2586,18,366
+370,7,29,5,AA,16,San Francisco CA,California,New York NY,New York,-2,25,13,0,350,2586,19,350
+371,7,30,6,AA,16,San Francisco CA,California,New York NY,New York,-3,11,-13,0,325,2586,18,124
+372,7,31,7,AA,16,San Francisco CA,California,New York NY,New York,3,10,4,0,336,2586,6,326
+373,7,1,5,AA,18,San Francisco CA,California,New York NY,New York,-5,14,-13,0,308,2586,0,918
+374,7,2,6,AA,18,San Francisco CA,California,New York NY,New York,-6,13,-11,0,311,2586,2,201
+375,7,3,7,AA,18,San Francisco CA,California,New York NY,New York,-7,13,-19,0,304,2586,11,537
+376,7,4,1,AA,18,San Francisco CA,California,New York NY,New York,-5,12,-12,0,309,2586,0,311
+377,7,5,2,AA,18,San Francisco CA,California,New York NY,New York,-7,15,-12,0,311,2586,19,554
+378,7,6,3,AA,18,San Francisco CA,California,New York NY,New York,-2,16,3,0,321,2586,4,339
+379,7,7,4,AA,18,San Francisco CA,California,New York NY,New York,-3,13,8,0,327,2586,17,664
+380,7,8,5,AA,18,San Francisco CA,California,New York NY,New York,-4,11,-4,0,316,2586,10,247
+381,7,9,6,AA,18,San Francisco CA,California,New York NY,New York,0,14,5,0,321,2586,4,919
+382,7,10,7,AA,18,San Francisco CA,California,New York NY,New York,-4,14,-1,0,319,2586,15,383
+383,7,11,1,AA,18,San Francisco CA,California,New York NY,New York,-12,17,0,0,328,2586,8,827
+384,7,12,2,AA,18,San Francisco CA,California,New York NY,New York,17,14,33,0,332,2586,3,918
+385,7,13,3,AA,18,San Francisco CA,California,New York NY,New York,-1,10,3,0,320,2586,8,452
+386,7,14,4,AA,18,San Francisco CA,California,New York NY,New York,-2,10,-3,0,315,2586,17,803
+387,7,15,5,AA,18,San Francisco CA,California,New York NY,New York,-1,14,2,0,319,2586,0,702
+388,7,16,6,AA,18,San Francisco CA,California,New York NY,New York,1,12,0,0,315,2586,6,184
+389,7,17,7,AA,18,San Francisco CA,California,New York NY,New York,0,14,16,0,332,2586,19,545
+390,7,18,1,AA,18,San Francisco CA,California,New York NY,New York,-2,17,-1,0,317,2586,15,552
+391,7,19,2,AA,18,San Francisco CA,California,New York NY,New York,-5,10,-8,0,313,2586,4,402
+392,7,20,3,AA,18,San Francisco CA,California,New York NY,New York,-1,15,10,0,327,2586,12,761
+393,7,21,4,AA,18,San Francisco CA,California,New York NY,New York,-8,11,-13,0,311,2586,9,799
+394,7,22,5,AA,18,San Francisco CA,California,New York NY,New York,-5,12,0,0,321,2586,10,469
+395,7,23,6,AA,18,San Francisco CA,California,New York NY,New York,-3,13,-10,0,309,2586,1,643
+396,7,24,7,AA,18,San Francisco CA,California,New York NY,New York,-5,18,-6,0,315,2586,2,890
+397,7,25,1,AA,18,San Francisco CA,California,New York NY,New York,-5,9,-18,0,303,2586,10,353
+398,7,26,2,AA,18,San Francisco CA,California,New York NY,New York,-2,14,-4,0,314,2586,10,429
+399,7,27,3,AA,18,San Francisco CA,California,New York NY,New York,-5,16,-7,0,314,2586,0,563
+400,7,28,4,AA,18,San Francisco CA,California,New York NY,New York,-2,16,-9,0,309,2586,16,493
+401,7,29,5,AA,18,San Francisco CA,California,New York NY,New York,-2,12,-6,0,312,2586,16,497
+402,7,30,6,AA,18,San Francisco CA,California,New York NY,New York,-3,12,4,0,323,2586,14,455
+403,7,31,7,AA,18,San Francisco CA,California,New York NY,New York,-2,13,3,0,321,2586,2,960
+404,7,1,5,AA,19,New York NY,New York,Los Angeles CA,California,-3,23,13,0,357,2475,10,146
+405,7,2,6,AA,19,New York NY,New York,Los Angeles CA,California,-7,19,-7,0,341,2475,17,179
+406,7,3,7,AA,19,New York NY,New York,Los Angeles CA,California,-4,22,-2,0,343,2475,15,333
+407,7,4,1,AA,19,New York NY,New York,Los Angeles CA,California,-10,16,-9,0,342,2475,2,393
+408,7,5,2,AA,19,New York NY,New York,Los Angeles CA,California,-5,21,4,0,350,2475,19,121
+409,7,6,3,AA,19,New York NY,New York,Los Angeles CA,California,-1,15,2,0,344,2475,13,272
+410,7,7,4,AA,19,New York NY,New York,Los Angeles CA,California,-4,21,-4,0,341,2475,10,364
+411,7,8,5,AA,19,New York NY,New York,Los Angeles CA,California,-3,25,3,0,347,2475,16,624
+412,7,9,6,AA,19,New York NY,New York,Los Angeles CA,California,-4,22,-11,0,334,2475,17,174
+413,7,10,7,AA,19,New York NY,New York,Los Angeles CA,California,-2,16,-5,0,338,2475,12,264
+414,7,11,1,AA,19,New York NY,New York,Los Angeles CA,California,-1,21,-13,0,329,2475,17,931
+415,7,12,2,AA,19,New York NY,New York,Los Angeles CA,California,-6,27,-25,0,322,2475,8,416
+416,7,13,3,AA,19,New York NY,New York,Los Angeles CA,California,10,114,85,0,416,2475,19,132
+417,7,14,4,AA,19,New York NY,New York,Los Angeles CA,California,-4,20,-13,0,332,2475,14,975
+418,7,15,5,AA,19,New York NY,New York,Los Angeles CA,California,-8,22,-17,0,332,2475,15,246
+419,7,16,6,AA,19,New York NY,New York,Los Angeles CA,California,-7,18,-20,0,328,2475,11,548
+420,7,17,7,AA,19,New York NY,New York,Los Angeles CA,California,-2,35,-1,0,342,2475,0,439
+421,7,18,1,AA,19,New York NY,New York,Los Angeles CA,California,-2,25,-11,0,332,2475,10,220
+422,7,19,2,AA,19,New York NY,New York,Los Angeles CA,California,-5,16,-16,0,330,2475,9,790
+423,7,20,3,AA,19,New York NY,New York,Los Angeles CA,California,-9,25,-19,0,331,2475,10,923
+424,7,21,4,AA,19,New York NY,New York,Los Angeles CA,California,-8,25,-6,0,343,2475,19,623
+425,7,22,5,AA,19,New York NY,New York,Los Angeles CA,California,-4,23,-11,0,334,2475,14,881
+426,7,23,6,AA,19,New York NY,New York,Los Angeles CA,California,-4,20,-10,0,335,2475,3,221
+427,7,24,7,AA,19,New York NY,New York,Los Angeles CA,California,-3,16,-6,0,338,2475,4,967
+428,7,25,1,AA,19,New York NY,New York,Los Angeles CA,California,-6,57,37,0,384,2475,2,304
+429,7,26,2,AA,19,New York NY,New York,Los Angeles CA,California,-5,28,5,0,351,2475,7,145
+430,7,27,3,AA,19,New York NY,New York,Los Angeles CA,California,-1,15,-7,0,335,2475,17,398
+431,7,28,4,AA,19,New York NY,New York,Los Angeles CA,California,-3,23,-14,0,330,2475,12,760
+432,7,29,5,AA,19,New York NY,New York,Los Angeles CA,California,-5,11,-21,0,325,2475,17,747
+433,7,30,6,AA,19,New York NY,New York,Los Angeles CA,California,37,16,22,0,326,2475,3,865
+434,7,31,7,AA,19,New York NY,New York,Los Angeles CA,California,0,16,-16,0,325,2475,15,807
+435,7,1,5,AA,20,San Francisco CA,California,New York NY,New York,-1,14,1,0,328,2586,9,170
+436,7,2,6,AA,20,San Francisco CA,California,New York NY,New York,-3,10,-17,0,312,2586,0,522
+437,7,3,7,AA,20,San Francisco CA,California,New York NY,New York,-3,12,-18,0,311,2586,15,416
+438,7,4,1,AA,20,San Francisco CA,California,New York NY,New York,-4,11,-18,0,312,2586,4,795
+439,7,5,2,AA,20,San Francisco CA,California,New York NY,New York,-4,12,-2,0,328,2586,13,315
+440,7,6,3,AA,20,San Francisco CA,California,New York NY,New York,-6,14,-11,0,321,2586,4,539
+441,7,7,4,AA,20,San Francisco CA,California,New York NY,New York,-5,12,-13,0,318,2586,18,285
+442,7,8,5,AA,20,San Francisco CA,California,New York NY,New York,-1,23,10,0,337,2586,17,534
+443,7,9,6,AA,20,San Francisco CA,California,New York NY,New York,-5,11,-8,0,323,2586,19,115
+444,7,10,7,AA,20,San Francisco CA,California,New York NY,New York,-5,12,6,0,337,2586,15,229
+445,7,11,1,AA,20,San Francisco CA,California,New York NY,New York,-3,19,8,0,337,2586,7,604
+446,7,12,2,AA,20,San Francisco CA,California,New York NY,New York,-5,14,-2,0,329,2586,8,267
+447,7,13,3,AA,20,San Francisco CA,California,New York NY,New York,72,11,68,0,322,2586,17,128
+448,7,14,4,AA,20,San Francisco CA,California,New York NY,New York,-2,16,13,0,341,2586,14,254
+449,7,15,5,AA,20,San Francisco CA,California,New York NY,New York,-1,14,24,0,351,2586,12,605
+450,7,16,6,AA,20,San Francisco CA,California,New York NY,New York,-6,11,8,0,340,2586,12,332
+451,7,17,7,AA,20,San Francisco CA,California,New York NY,New York,-2,19,18,0,346,2586,14,429
+452,7,18,1,AA,20,San Francisco CA,California,New York NY,New York,19,40,65,0,372,2586,9,998
+453,7,19,2,AA,20,San Francisco CA,California,New York NY,New York,-6,13,-20,0,312,2586,1,123
+454,7,20,3,AA,20,San Francisco CA,California,New York NY,New York,-3,12,-2,0,327,2586,13,844
+455,7,21,4,AA,20,San Francisco CA,California,New York NY,New York,-2,16,4,0,332,2586,11,350
+456,7,22,5,AA,20,San Francisco CA,California,New York NY,New York,-4,12,0,0,330,2586,9,837
+457,7,23,6,AA,20,San Francisco CA,California,New York NY,New York,7,11,-3,0,316,2586,15,437
+458,7,24,7,AA,20,San Francisco CA,California,New York NY,New York,-3,15,2,0,331,2586,4,897
+459,7,25,1,AA,20,San Francisco CA,California,New York NY,New York,-2,13,-14,0,314,2586,17,716
+460,7,26,2,AA,20,San Francisco CA,California,New York NY,New York,-8,13,6,0,340,2586,17,280
+461,7,27,3,AA,20,San Francisco CA,California,New York NY,New York,-2,16,10,0,338,2586,19,363
+462,7,28,4,AA,20,San Francisco CA,California,New York NY,New York,-4,19,4,0,334,2586,6,861
+463,7,29,5,AA,20,San Francisco CA,California,New York NY,New York,-5,10,-7,0,324,2586,7,223
+464,7,30,6,AA,20,San Francisco CA,California,New York NY,New York,-3,12,-10,0,319,2586,15,563
+465,7,31,7,AA,20,San Francisco CA,California,New York NY,New York,-3,15,0,0,329,2586,16,883
+466,7,1,5,AA,21,New York NY,New York,Los Angeles CA,California,279,60,306,0,390,2475,9,523
+467,7,2,6,AA,21,New York NY,New York,Los Angeles CA,California,-4,33,11,0,378,2475,4,756
+468,7,3,7,AA,21,New York NY,New York,Los Angeles CA,California,0,35,9,0,372,2475,11,652
+469,7,4,1,AA,21,New York NY,New York,Los Angeles CA,California,2,29,4,0,365,2475,10,143
+470,7,5,2,AA,21,New York NY,New York,Los Angeles CA,California,-3,52,23,0,389,2475,5,597
+471,7,6,3,AA,21,New York NY,New York,Los Angeles CA,California,23,53,38,0,378,2475,3,436
+472,7,7,4,AA,21,New York NY,New York,Los Angeles CA,California,98,31,86,0,351,2475,13,696
+473,7,8,5,AA,21,New York NY,New York,Los Angeles CA,California,1,52,7,0,369,2475,15,541
+474,7,9,6,AA,21,New York NY,New York,Los Angeles CA,California,3,45,5,0,365,2475,11,504
+475,7,10,7,AA,21,New York NY,New York,Los Angeles CA,California,59,50,63,0,367,2475,9,435
+476,7,11,1,AA,21,New York NY,New York,Los Angeles CA,California,34,53,21,0,350,2475,3,153
+477,7,12,2,AA,21,New York NY,New York,Los Angeles CA,California,12,63,25,0,376,2475,13,276
+478,7,13,3,AA,21,New York NY,New York,Los Angeles CA,California,26,36,12,0,349,2475,14,742
+479,7,14,4,AA,21,New York NY,New York,Los Angeles CA,California,-2,54,-3,0,362,2475,11,164
+480,7,15,5,AA,21,New York NY,New York,Los Angeles CA,California,24,49,16,0,355,2475,15,768
+481,7,16,6,AA,21,New York NY,New York,Los Angeles CA,California,-3,78,37,0,403,2475,2,392
+482,7,17,7,AA,21,New York NY,New York,Los Angeles CA,California,38,70,66,0,391,2475,4,875
+483,7,18,1,AA,21,New York NY,New York,Los Angeles CA,California,149,31,141,0,355,2475,5,243
+484,7,19,2,AA,21,New York NY,New York,Los Angeles CA,California,35,45,34,0,362,2475,0,423
+485,7,20,3,AA,21,New York NY,New York,Los Angeles CA,California,7,49,10,0,366,2475,15,529
+486,7,21,4,AA,21,New York NY,New York,Los Angeles CA,California,147,58,155,0,371,2475,7,714
+487,7,22,5,AA,21,New York NY,New York,Los Angeles CA,California,76,32,54,0,341,2475,17,638
+488,7,23,6,AA,21,New York NY,New York,Los Angeles CA,California,78,51,85,0,370,2475,5,407
+489,7,24,7,AA,21,New York NY,New York,Los Angeles CA,California,-7,43,-12,0,358,2475,4,655
+490,7,25,1,AA,21,New York NY,New York,Los Angeles CA,California,0,54,20,0,383,2475,7,205
+491,7,26,2,AA,21,New York NY,New York,Los Angeles CA,California,-3,88,43,0,409,2475,18,214
+492,7,27,3,AA,21,New York NY,New York,Los Angeles CA,California,-2,151,123,0,488,2475,8,138
+493,7,28,4,AA,21,New York NY,New York,Los Angeles CA,California,5,31,-2,0,356,2475,18,111
+494,7,29,5,AA,21,New York NY,New York,Los Angeles CA,California,21,75,54,0,396,2475,13,194
+495,7,30,6,AA,21,New York NY,New York,Los Angeles CA,California,1,43,-1,0,361,2475,5,594
+496,7,31,7,AA,21,New York NY,New York,Los Angeles CA,California,0,55,4,0,367,2475,16,479
+497,7,1,5,AA,22,Los Angeles CA,California,New York NY,New York,5,21,4,0,326,2475,18,254
+498,7,3,7,AA,22,Los Angeles CA,California,New York NY,New York,-4,13,-22,0,309,2475,12,591
+499,7,4,1,AA,22,Los Angeles CA,California,New York NY,New York,-6,16,-14,0,319,2475,4,962
+500,7,5,2,AA,22,Los Angeles CA,California,New York NY,New York,-3,14,0,0,330,2475,13,612
+501,7,6,3,AA,22,Los Angeles CA,California,New York NY,New York,0,22,-7,0,320,2475,10,696
+502,7,7,4,AA,22,Los Angeles CA,California,New York NY,New York,-1,18,-4,0,324,2475,16,264
+503,7,8,5,AA,22,Los Angeles CA,California,New York NY,New York,6,13,6,0,327,2475,14,173
+504,7,10,7,AA,22,Los Angeles CA,California,New York NY,New York,-5,22,30,0,362,2475,6,957
+505,7,11,1,AA,22,Los Angeles CA,California,New York NY,New York,-4,15,-3,0,328,2475,0,721
+506,7,12,2,AA,22,Los Angeles CA,California,New York NY,New York,-2,11,9,0,338,2475,4,653
+507,7,13,3,AA,22,Los Angeles CA,California,New York NY,New York,59,39,91,0,359,2475,4,389
+508,7,14,4,AA,22,Los Angeles CA,California,New York NY,New York,0,14,21,0,348,2475,3,784
+509,7,15,5,AA,22,Los Angeles CA,California,New York NY,New York,-7,19,16,0,350,2475,0,135
+510,7,17,7,AA,22,Los Angeles CA,California,New York NY,New York,-5,15,30,0,362,2475,1,745
+511,7,18,1,AA,22,Los Angeles CA,California,New York NY,New York,0,16,35,0,362,2475,6,655
+512,7,19,2,AA,22,Los Angeles CA,California,New York NY,New York,-4,20,-11,0,320,2475,0,295
+513,7,20,3,AA,22,Los Angeles CA,California,New York NY,New York,1,24,9,0,335,2475,14,573
+514,7,21,4,AA,22,Los Angeles CA,California,New York NY,New York,-4,12,1,0,332,2475,9,580
+515,7,22,5,AA,22,Los Angeles CA,California,New York NY,New York,-4,15,-12,0,319,2475,1,714
+516,7,24,7,AA,22,Los Angeles CA,California,New York NY,New York,5,11,11,0,333,2475,5,891
+517,7,25,1,AA,22,Los Angeles CA,California,New York NY,New York,0,14,0,0,327,2475,5,419
+518,7,26,2,AA,22,Los Angeles CA,California,New York NY,New York,-5,15,21,0,353,2475,1,318
+519,7,27,3,AA,22,Los Angeles CA,California,New York NY,New York,-1,12,12,0,340,2475,11,435
+520,7,28,4,AA,22,Los Angeles CA,California,New York NY,New York,-4,15,-10,0,321,2475,10,776
+521,7,29,5,AA,22,Los Angeles CA,California,New York NY,New York,-4,30,7,0,338,2475,11,438
+522,7,31,7,AA,22,Los Angeles CA,California,New York NY,New York,-3,15,1,0,331,2475,5,356
+523,7,1,5,AA,24,San Francisco CA,California,New York NY,New York,-2,11,-22,0,310,2586,10,294
+524,7,2,6,AA,24,San Francisco CA,California,New York NY,New York,-4,17,-17,0,317,2586,10,999
+525,7,3,7,AA,24,San Francisco CA,California,New York NY,New York,-2,8,-12,0,320,2586,7,706
+526,7,4,1,AA,24,San Francisco CA,California,New York NY,New York,-2,13,-4,0,328,2586,4,635
+527,7,5,2,AA,24,San Francisco CA,California,New York NY,New York,-2,17,10,0,342,2586,16,746
+528,7,6,3,AA,24,San Francisco CA,California,New York NY,New York,3,12,-1,0,326,2586,3,210
+529,7,7,4,AA,24,San Francisco CA,California,New York NY,New York,0,11,-16,0,314,2586,15,173
+530,7,8,5,AA,24,San Francisco CA,California,New York NY,New York,2,9,-1,0,327,2586,7,502
+531,7,9,6,AA,24,San Francisco CA,California,New York NY,New York,-3,17,40,0,373,2586,10,186
+532,7,10,7,AA,24,San Francisco CA,California,New York NY,New York,-2,12,-5,0,327,2586,11,880
+533,7,11,1,AA,24,San Francisco CA,California,New York NY,New York,3,12,25,0,352,2586,19,371
+534,7,12,2,AA,24,San Francisco CA,California,New York NY,New York,12,17,9,0,327,2586,14,527
+535,7,13,3,AA,24,San Francisco CA,California,New York NY,New York,-7,14,10,0,347,2586,6,170
+536,7,14,4,AA,24,San Francisco CA,California,New York NY,New York,-1,13,11,0,342,2586,4,601
+537,7,15,5,AA,24,San Francisco CA,California,New York NY,New York,-5,11,-13,0,322,2586,15,557
+538,7,16,6,AA,24,San Francisco CA,California,New York NY,New York,-5,14,-7,0,328,2586,18,941
+539,7,17,7,AA,24,San Francisco CA,California,New York NY,New York,7,47,42,0,365,2586,1,221
+540,7,18,1,AA,24,San Francisco CA,California,New York NY,New York,-2,11,-8,0,324,2586,4,852
+541,7,19,2,AA,24,San Francisco CA,California,New York NY,New York,-3,26,7,0,340,2586,0,499
+542,7,20,3,AA,24,San Francisco CA,California,New York NY,New York,14,19,9,0,325,2586,7,254
+543,7,21,4,AA,24,San Francisco CA,California,New York NY,New York,0,17,-3,0,327,2586,14,627
+544,7,22,5,AA,24,San Francisco CA,California,New York NY,New York,11,18,44,0,363,2586,18,658
+545,7,23,6,AA,24,San Francisco CA,California,New York NY,New York,-3,15,4,0,337,2586,8,713
+546,7,24,7,AA,24,San Francisco CA,California,New York NY,New York,-2,15,-4,0,328,2586,11,334
+547,7,25,1,AA,24,San Francisco CA,California,New York NY,New York,-6,10,-25,0,311,2586,13,276
+548,7,26,2,AA,24,San Francisco CA,California,New York NY,New York,-5,12,-1,0,334,2586,6,351
+549,7,27,3,AA,24,San Francisco CA,California,New York NY,New York,-4,12,-14,0,320,2586,5,311
+550,7,28,4,AA,24,San Francisco CA,California,New York NY,New York,-5,10,-25,0,310,2586,1,378
+551,7,29,5,AA,24,San Francisco CA,California,New York NY,New York,2,12,11,0,339,2586,17,616
+552,7,30,6,AA,24,San Francisco CA,California,New York NY,New York,-2,13,7,0,339,2586,17,522
+553,7,31,7,AA,24,San Francisco CA,California,New York NY,New York,0,0,0,1,0,2586,11,136
+554,7,1,5,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,0,27,13,0,385,2611,11,121
+555,7,2,6,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-5,40,-5,0,372,2611,0,969
+556,7,3,7,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-4,15,12,0,388,2611,19,944
+557,7,4,1,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-1,17,-5,0,368,2611,15,320
+558,7,5,2,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-8,28,1,0,381,2611,14,617
+559,7,6,3,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,6,35,20,0,386,2611,2,779
+560,7,7,4,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,0,15,1,0,373,2611,7,159
+561,7,8,5,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-1,23,-23,0,350,2611,16,886
+562,7,9,6,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,10,22,-6,0,356,2611,16,503
+563,7,10,7,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,0,15,-41,0,331,2611,1,769
+564,7,11,1,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-5,21,-38,0,339,2611,8,439
+565,7,12,2,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-6,16,-47,0,331,2611,13,571
+566,7,13,3,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-1,43,-15,0,358,2611,13,939
+567,7,14,4,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-2,20,-27,0,347,2611,2,186
+568,7,15,5,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-3,24,-29,0,346,2611,5,676
+569,7,16,6,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,1,32,21,0,392,2611,19,743
+570,7,17,7,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,2,34,-3,0,367,2611,18,994
+571,7,18,1,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-1,25,-5,0,368,2611,3,478
+572,7,19,2,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,4,17,-3,0,365,2611,7,509
+573,7,20,3,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-2,15,33,0,407,2611,7,749
+574,7,21,4,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,9,15,-15,0,348,2611,3,219
+575,7,22,5,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-6,28,-20,0,358,2611,14,243
+576,7,23,6,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,4,12,-20,0,348,2611,7,943
+577,7,24,7,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-8,19,-24,0,356,2611,7,660
+578,7,25,1,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,3,32,-2,0,367,2611,19,821
+579,7,26,2,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-3,18,-22,0,353,2611,19,546
+580,7,27,3,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-9,19,4,0,385,2611,14,930
+581,7,28,4,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-4,15,0,0,376,2611,16,866
+582,7,29,5,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-5,20,-11,0,366,2611,4,101
+583,7,30,6,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-4,14,-16,0,360,2611,6,925
+584,7,31,7,AA,25,Boston MA,Massachusetts,Los Angeles CA,California,-5,13,-17,0,360,2611,17,490
+585,7,1,5,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,34,30,30,0,295,2399,1,297
+586,7,2,6,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,11,11,-9,0,279,2399,9,794
+587,7,3,7,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,19,19,11,0,291,2399,13,275
+588,7,4,1,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,6,21,-1,0,292,2399,1,559
+589,7,5,2,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-5,13,-14,0,290,2399,19,587
+590,7,6,3,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,12,13,9,0,296,2399,15,806
+591,7,7,4,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-1,19,6,0,306,2399,1,822
+592,7,8,5,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,0,15,4,0,303,2399,10,662
+593,7,9,6,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-3,29,18,0,320,2399,3,666
+594,7,10,7,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-3,11,-14,0,288,2399,13,246
+595,7,11,1,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,16,14,7,0,290,2399,15,320
+596,7,12,2,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-5,12,-24,0,280,2399,15,424
+597,7,13,3,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-4,18,-3,0,300,2399,13,136
+598,7,14,4,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,9,12,1,0,291,2399,7,577
+599,7,15,5,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,12,15,8,0,295,2399,15,685
+600,7,16,6,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,0,26,12,0,311,2399,3,261
+601,7,17,7,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-4,16,-16,0,287,2399,17,575
+602,7,18,1,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-6,16,-16,0,289,2399,17,408
+603,7,19,2,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-2,17,-12,0,289,2399,7,737
+604,7,20,3,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-3,28,2,0,304,2399,13,559
+605,7,21,4,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-5,25,-17,0,287,2399,15,828
+606,7,22,5,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-1,17,-14,0,286,2399,9,207
+607,7,23,6,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,12,21,1,0,288,2399,13,303
+608,7,24,7,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-2,15,-11,0,290,2399,7,691
+609,7,25,1,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-2,34,-3,0,298,2399,2,794
+610,7,26,2,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-4,20,-13,0,290,2399,11,117
+611,7,27,3,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,31,20,28,0,296,2399,16,281
+612,7,28,4,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-4,14,-13,0,290,2399,0,389
+613,7,29,5,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,47,16,89,0,341,2399,7,865
+614,7,30,6,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-2,15,-28,0,273,2399,10,602
+615,7,31,7,AA,28,Honolulu HI,Hawaii,San Francisco CA,California,-1,16,-17,0,283,2399,0,412
+616,7,1,5,AA,30,Los Angeles CA,California,New York NY,New York,0,16,-10,0,305,2475,5,241
+617,7,2,6,AA,30,Los Angeles CA,California,New York NY,New York,13,15,6,0,308,2475,9,926
+618,7,3,7,AA,30,Los Angeles CA,California,New York NY,New York,22,17,12,0,305,2475,16,333
+619,7,4,1,AA,30,Los Angeles CA,California,New York NY,New York,-3,18,-11,0,307,2475,10,921
+620,7,5,2,AA,30,Los Angeles CA,California,New York NY,New York,53,26,45,0,307,2475,16,137
+621,7,6,3,AA,30,Los Angeles CA,California,New York NY,New York,40,20,46,0,321,2475,16,523
+622,7,7,4,AA,30,Los Angeles CA,California,New York NY,New York,2,34,18,0,331,2475,17,117
+623,7,8,5,AA,30,Los Angeles CA,California,New York NY,New York,75,33,80,0,320,2475,6,394
+624,7,9,6,AA,30,Los Angeles CA,California,New York NY,New York,37,19,52,0,330,2475,7,431
+625,7,10,7,AA,30,Los Angeles CA,California,New York NY,New York,-2,15,-2,0,315,2475,8,988
+626,7,11,1,AA,30,Los Angeles CA,California,New York NY,New York,15,17,24,0,324,2475,1,104
+627,7,12,2,AA,30,Los Angeles CA,California,New York NY,New York,34,25,43,0,324,2475,6,630
+628,7,13,3,AA,30,Los Angeles CA,California,New York NY,New York,-1,21,21,0,337,2475,4,165
+629,7,14,4,AA,30,Los Angeles CA,California,New York NY,New York,19,15,34,0,330,2475,15,809
+630,7,15,5,AA,30,Los Angeles CA,California,New York NY,New York,68,23,76,0,323,2475,14,609
+631,7,16,6,AA,30,Los Angeles CA,California,New York NY,New York,6,20,26,0,335,2475,10,643
+632,7,17,7,AA,30,Los Angeles CA,California,New York NY,New York,-3,23,9,0,327,2475,4,597
+633,7,18,1,AA,30,Los Angeles CA,California,New York NY,New York,-1,17,-2,0,314,2475,14,451
+634,7,19,2,AA,30,Los Angeles CA,California,New York NY,New York,19,24,27,0,323,2475,13,277
+635,7,20,3,AA,30,Los Angeles CA,California,New York NY,New York,32,21,39,0,322,2475,4,947
+636,7,21,4,AA,30,Los Angeles CA,California,New York NY,New York,40,14,39,0,314,2475,1,755
+637,7,22,5,AA,30,Los Angeles CA,California,New York NY,New York,-2,19,3,0,320,2475,8,878
+638,7,23,6,AA,30,Los Angeles CA,California,New York NY,New York,0,21,1,0,316,2475,11,835
+639,7,24,7,AA,30,Los Angeles CA,California,New York NY,New York,14,18,37,0,338,2475,8,570
+640,7,25,1,AA,30,Los Angeles CA,California,New York NY,New York,28,16,39,0,326,2475,2,928
+641,7,26,2,AA,30,Los Angeles CA,California,New York NY,New York,55,14,44,0,304,2475,8,853
+642,7,27,3,AA,30,Los Angeles CA,California,New York NY,New York,10,29,9,0,314,2475,9,161
+643,7,28,4,AA,30,Los Angeles CA,California,New York NY,New York,5,21,18,0,328,2475,12,628
+644,7,29,5,AA,30,Los Angeles CA,California,New York NY,New York,156,23,157,0,316,2475,5,709
+645,7,30,6,AA,30,Los Angeles CA,California,New York NY,New York,-6,19,3,0,324,2475,2,777
+646,7,31,7,AA,30,Los Angeles CA,California,New York NY,New York,26,14,18,0,307,2475,3,358
+647,7,1,5,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-5,17,-2,0,338,2556,8,226
+648,7,2,6,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-2,20,8,0,345,2556,5,286
+649,7,3,7,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-1,15,7,0,343,2556,12,176
+650,7,4,1,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,0,14,3,0,338,2556,15,648
+651,7,5,2,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,0,16,-7,0,328,2556,13,175
+652,7,6,3,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,74,21,59,0,320,2556,12,762
+653,7,7,4,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,1,14,-8,0,326,2556,5,371
+654,7,8,5,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,0,17,-3,0,332,2556,19,549
+655,7,9,6,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-4,19,-19,0,320,2556,14,743
+656,7,10,7,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,2,20,-7,0,326,2556,17,955
+657,7,11,1,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,29,16,18,0,324,2556,16,457
+658,7,12,2,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,0,17,-4,0,331,2556,8,306
+659,7,13,3,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,66,19,59,0,328,2556,13,357
+660,7,14,4,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,1,23,5,0,339,2556,13,551
+661,7,15,5,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,12,14,5,0,328,2556,0,116
+662,7,16,6,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-2,25,-1,0,336,2556,3,831
+663,7,17,7,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,1,25,-1,0,333,2556,11,279
+664,7,18,1,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-2,16,-9,0,328,2556,8,376
+665,7,19,2,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-7,21,-2,0,340,2556,11,136
+666,7,20,3,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,0,18,-6,0,329,2556,4,872
+667,7,21,4,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,0,20,5,0,340,2556,3,504
+668,7,22,5,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-2,18,11,0,348,2556,11,500
+669,7,23,6,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,15,14,12,0,332,2556,16,771
+670,7,24,7,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-6,16,-11,0,330,2556,9,452
+671,7,25,1,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,2,22,4,0,337,2556,8,222
+672,7,26,2,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-1,15,-6,0,330,2556,14,770
+673,7,27,3,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,4,17,-1,0,330,2556,6,864
+674,7,28,4,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,-5,22,-3,0,337,2556,19,274
+675,7,29,5,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,54,19,55,0,336,2556,13,361
+676,7,30,6,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,10,43,53,0,378,2556,9,599
+677,7,31,7,AA,31,Los Angeles CA,California,Honolulu HI,Hawaii,0,17,-1,0,334,2556,5,823
+678,7,1,5,AA,32,Los Angeles CA,California,New York NY,New York,10,18,13,0,340,2475,3,798
+679,7,2,6,AA,32,Los Angeles CA,California,New York NY,New York,6,20,-10,0,321,2475,2,276
+680,7,3,7,AA,32,Los Angeles CA,California,New York NY,New York,2,14,-6,0,329,2475,0,291
+681,7,4,1,AA,32,Los Angeles CA,California,New York NY,New York,-5,20,-17,0,325,2475,2,769
+682,7,5,2,AA,32,Los Angeles CA,California,New York NY,New York,-1,18,-17,0,321,2475,3,411
+683,7,6,3,AA,32,Los Angeles CA,California,New York NY,New York,-6,26,-19,0,324,2475,14,641
+684,7,7,4,AA,32,Los Angeles CA,California,New York NY,New York,-2,29,-1,0,338,2475,15,640
+685,7,8,5,AA,32,Los Angeles CA,California,New York NY,New York,5,23,25,0,357,2475,15,506
+686,7,9,6,AA,32,Los Angeles CA,California,New York NY,New York,-3,24,2,0,342,2475,10,432
+687,7,10,7,AA,32,Los Angeles CA,California,New York NY,New York,-2,16,-20,0,319,2475,11,502
+688,7,11,1,AA,32,Los Angeles CA,California,New York NY,New York,-3,16,-24,0,316,2475,6,153
+689,7,12,2,AA,32,Los Angeles CA,California,New York NY,New York,-5,18,-9,0,333,2475,7,675
+690,7,13,3,AA,32,Los Angeles CA,California,New York NY,New York,0,29,25,0,362,2475,12,238
+691,7,14,4,AA,32,Los Angeles CA,California,New York NY,New York,-2,15,0,0,339,2475,2,813
+692,7,15,5,AA,32,Los Angeles CA,California,New York NY,New York,-1,19,9,0,347,2475,1,612
+693,7,16,6,AA,32,Los Angeles CA,California,New York NY,New York,-5,23,9,0,351,2475,3,546
+694,7,17,7,AA,32,Los Angeles CA,California,New York NY,New York,34,41,115,0,418,2475,7,950
+695,7,18,1,AA,32,Los Angeles CA,California,New York NY,New York,2,80,101,0,436,2475,9,276
+696,7,19,2,AA,32,Los Angeles CA,California,New York NY,New York,-2,25,12,0,351,2475,3,189
+697,7,20,3,AA,32,Los Angeles CA,California,New York NY,New York,9,20,38,0,366,2475,4,751
+698,7,21,4,AA,32,Los Angeles CA,California,New York NY,New York,-2,21,18,0,357,2475,0,808
+699,7,22,5,AA,32,Los Angeles CA,California,New York NY,New York,1,21,4,0,340,2475,9,832
+700,7,23,6,AA,32,Los Angeles CA,California,New York NY,New York,-3,25,-1,0,339,2475,15,862
+701,7,24,7,AA,32,Los Angeles CA,California,New York NY,New York,-1,19,-15,0,323,2475,3,942
+702,7,25,1,AA,32,Los Angeles CA,California,New York NY,New York,160,18,152,0,329,2475,11,364
+703,7,26,2,AA,32,Los Angeles CA,California,New York NY,New York,-3,26,17,0,357,2475,16,391
+704,7,27,3,AA,32,Los Angeles CA,California,New York NY,New York,1,22,1,0,337,2475,11,562
+705,7,28,4,AA,32,Los Angeles CA,California,New York NY,New York,3,19,-14,0,320,2475,2,746
+706,7,29,5,AA,32,Los Angeles CA,California,New York NY,New York,6,27,19,0,350,2475,19,571
+707,7,30,6,AA,32,Los Angeles CA,California,New York NY,New York,3,26,-2,0,332,2475,7,571
+708,7,31,7,AA,32,Los Angeles CA,California,New York NY,New York,-1,19,6,0,344,2475,6,313
+709,7,1,5,AA,33,New York NY,New York,Los Angeles CA,California,0,21,14,0,364,2475,7,486
+710,7,2,6,AA,33,New York NY,New York,Los Angeles CA,California,-1,25,46,0,397,2475,8,699
+711,7,3,7,AA,33,New York NY,New York,Los Angeles CA,California,-1,25,13,0,364,2475,3,257
+712,7,4,1,AA,33,New York NY,New York,Los Angeles CA,California,-2,20,2,0,354,2475,7,370
+713,7,5,2,AA,33,New York NY,New York,Los Angeles CA,California,-5,20,3,0,358,2475,14,992
+714,7,6,3,AA,33,New York NY,New York,Los Angeles CA,California,-3,23,5,0,358,2475,15,655
+715,7,7,4,AA,33,New York NY,New York,Los Angeles CA,California,4,22,-3,0,343,2475,0,246
+716,7,8,5,AA,33,New York NY,New York,Los Angeles CA,California,-3,20,-8,0,345,2475,0,844
+717,7,9,6,AA,33,New York NY,New York,Los Angeles CA,California,-7,41,10,0,367,2475,0,347
+718,7,10,7,AA,33,New York NY,New York,Los Angeles CA,California,-2,18,-29,0,323,2475,9,325
+719,7,11,1,AA,33,New York NY,New York,Los Angeles CA,California,1,32,5,0,354,2475,17,533
+720,7,12,2,AA,33,New York NY,New York,Los Angeles CA,California,-5,26,-29,0,326,2475,18,693
+721,7,13,3,AA,33,New York NY,New York,Los Angeles CA,California,-5,34,-14,0,341,2475,0,805
+722,7,14,4,AA,33,New York NY,New York,Los Angeles CA,California,-7,15,-28,0,329,2475,15,895
+723,7,15,5,AA,33,New York NY,New York,Los Angeles CA,California,-1,36,-6,0,345,2475,8,604
+724,7,16,6,AA,33,New York NY,New York,Los Angeles CA,California,-5,18,-23,0,332,2475,14,482
+725,7,17,7,AA,33,New York NY,New York,Los Angeles CA,California,-7,58,10,0,367,2475,1,423
+726,7,18,1,AA,33,New York NY,New York,Los Angeles CA,California,-1,20,-10,0,341,2475,16,608
+727,7,19,2,AA,33,New York NY,New York,Los Angeles CA,California,-7,18,-22,0,335,2475,10,403
+728,7,20,3,AA,33,New York NY,New York,Los Angeles CA,California,-6,31,-14,0,342,2475,11,197
+729,7,21,4,AA,33,New York NY,New York,Los Angeles CA,California,6,50,10,0,354,2475,10,214
+730,7,22,5,AA,33,New York NY,New York,Los Angeles CA,California,0,22,-22,0,328,2475,11,536
+731,7,23,6,AA,33,New York NY,New York,Los Angeles CA,California,-5,16,-13,0,342,2475,4,421
+732,7,24,7,AA,33,New York NY,New York,Los Angeles CA,California,-6,20,-31,0,325,2475,15,357
+733,7,25,1,AA,33,New York NY,New York,Los Angeles CA,California,1,58,58,0,407,2475,2,872
+734,7,26,2,AA,33,New York NY,New York,Los Angeles CA,California,-5,28,-7,0,348,2475,18,867
+735,7,27,3,AA,33,New York NY,New York,Los Angeles CA,California,0,30,-5,0,345,2475,15,507
+736,7,28,4,AA,33,New York NY,New York,Los Angeles CA,California,-3,41,7,0,360,2475,7,598
+737,7,29,5,AA,33,New York NY,New York,Los Angeles CA,California,41,31,48,0,357,2475,5,593
+738,7,30,6,AA,33,New York NY,New York,Los Angeles CA,California,-4,44,28,0,382,2475,17,579
+739,7,31,7,AA,33,New York NY,New York,Los Angeles CA,California,43,13,20,0,327,2475,19,343
+740,7,1,5,AA,34,Los Angeles CA,California,New York NY,New York,0,27,-4,0,324,2475,16,608
+741,7,2,6,AA,34,Los Angeles CA,California,New York NY,New York,-2,17,-18,0,312,2475,14,511
+742,7,3,7,AA,34,Los Angeles CA,California,New York NY,New York,7,12,-10,0,311,2475,7,482
+743,7,4,1,AA,34,Los Angeles CA,California,New York NY,New York,-4,14,-23,0,309,2475,9,230
+744,7,5,2,AA,34,Los Angeles CA,California,New York NY,New York,-3,15,-18,0,313,2475,17,493
+745,7,6,3,AA,34,Los Angeles CA,California,New York NY,New York,59,18,48,0,317,2475,15,284
+746,7,7,4,AA,34,Los Angeles CA,California,New York NY,New York,9,15,-5,0,314,2475,10,363
+747,7,8,5,AA,34,Los Angeles CA,California,New York NY,New York,-5,26,11,0,344,2475,9,688
+748,7,9,6,AA,34,Los Angeles CA,California,New York NY,New York,-2,17,29,0,359,2475,14,927
+749,7,10,7,AA,34,Los Angeles CA,California,New York NY,New York,0,26,10,0,338,2475,16,249
+750,7,11,1,AA,34,Los Angeles CA,California,New York NY,New York,-9,35,44,0,381,2475,10,505
+751,7,12,2,AA,34,Los Angeles CA,California,New York NY,New York,3,21,51,0,376,2475,3,354
+752,7,13,3,AA,34,Los Angeles CA,California,New York NY,New York,7,12,52,0,373,2475,11,714
+753,7,14,4,AA,34,Los Angeles CA,California,New York NY,New York,-2,16,18,0,348,2475,8,302
+754,7,15,5,AA,34,Los Angeles CA,California,New York NY,New York,-2,14,3,0,333,2475,0,958
+755,7,16,6,AA,34,Los Angeles CA,California,New York NY,New York,-3,24,8,0,339,2475,3,372
+756,7,17,7,AA,34,Los Angeles CA,California,New York NY,New York,6,64,72,0,394,2475,16,914
+757,7,18,1,AA,34,Los Angeles CA,California,New York NY,New York,-2,20,12,0,342,2475,1,716
+758,7,19,2,AA,34,Los Angeles CA,California,New York NY,New York,-5,59,64,0,397,2475,7,414
+759,7,20,3,AA,34,Los Angeles CA,California,New York NY,New York,-6,46,25,0,359,2475,13,346
+760,7,21,4,AA,34,Los Angeles CA,California,New York NY,New York,-5,15,7,0,340,2475,19,975
+761,7,22,5,AA,34,Los Angeles CA,California,New York NY,New York,-1,26,4,0,333,2475,1,873
+762,7,23,6,AA,34,Los Angeles CA,California,New York NY,New York,-3,15,-8,0,323,2475,7,130
+763,7,24,7,AA,34,Los Angeles CA,California,New York NY,New York,-4,18,-10,0,322,2475,17,182
+764,7,25,1,AA,34,Los Angeles CA,California,New York NY,New York,-7,13,-12,0,323,2475,18,521
+765,7,26,2,AA,34,Los Angeles CA,California,New York NY,New York,-1,15,5,0,334,2475,2,139
+766,7,27,3,AA,34,Los Angeles CA,California,New York NY,New York,0,20,-1,0,327,2475,5,474
+767,7,28,4,AA,34,Los Angeles CA,California,New York NY,New York,-8,14,-12,0,324,2475,14,696
+768,7,29,5,AA,34,Los Angeles CA,California,New York NY,New York,0,24,18,0,346,2475,6,239
+769,7,30,6,AA,34,Los Angeles CA,California,New York NY,New York,-4,15,-1,0,331,2475,13,528
+770,7,31,7,AA,34,Los Angeles CA,California,New York NY,New York,-5,16,-15,0,318,2475,11,212
+771,7,1,5,AA,35,San Jose CA,California,Honolulu HI,Hawaii,94,10,305,0,214,2416,13,919
+772,7,1,5,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,33,15,50,0,332,2399,9,952
+773,7,2,6,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,13,13,16,0,318,2399,7,456
+774,7,3,7,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,37,15,48,0,326,2399,13,500
+775,7,4,1,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-7,15,4,0,326,2399,9,542
+776,7,5,2,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-5,9,-11,0,309,2399,2,967
+777,7,6,3,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,1,11,-7,0,307,2399,6,891
+778,7,7,4,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-4,14,-17,0,302,2399,16,143
+779,7,8,5,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-9,14,-17,0,307,2399,11,939
+780,7,9,6,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-7,14,-13,0,309,2399,2,318
+781,7,10,7,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-5,14,-10,0,310,2399,15,583
+782,7,11,1,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-8,12,-10,0,313,2399,18,514
+783,7,12,2,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-5,16,-4,0,316,2399,12,170
+784,7,13,3,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-2,17,-5,0,312,2399,0,486
+785,7,14,4,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,63,13,46,0,298,2399,19,991
+786,7,15,5,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-4,14,-15,0,304,2399,2,729
+787,7,16,6,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-4,16,-10,0,309,2399,10,348
+788,7,17,7,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-5,14,-6,0,314,2399,12,894
+789,7,18,1,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-2,12,-3,0,314,2399,1,862
+790,7,19,2,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-3,14,-2,0,316,2399,3,867
+791,7,20,3,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,13,12,12,0,314,2399,18,719
+792,7,21,4,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-5,12,0,0,320,2399,0,898
+793,7,22,5,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-4,11,-3,0,316,2399,13,285
+794,7,23,6,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-3,14,4,0,322,2399,1,147
+795,7,24,7,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-4,13,2,0,321,2399,0,683
+796,7,25,1,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,0,17,5,0,320,2399,1,349
+797,7,26,2,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-3,17,1,0,319,2399,0,703
+798,7,27,3,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-8,14,-7,0,316,2399,16,638
+799,7,28,4,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-9,14,-9,0,315,2399,8,700
+800,7,29,5,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-2,17,16,0,333,2399,18,171
+801,7,30,6,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-3,15,5,0,323,2399,0,508
+802,7,31,7,AA,39,San Francisco CA,California,Honolulu HI,Hawaii,-3,35,18,0,336,2399,7,871
+803,7,1,5,AA,40,Los Angeles CA,California,New York NY,New York,0,24,3,0,332,2475,4,686
+804,7,2,6,AA,40,Los Angeles CA,California,New York NY,New York,11,15,-2,0,316,2475,11,683
+805,7,3,7,AA,40,Los Angeles CA,California,New York NY,New York,0,16,-2,0,327,2475,19,814
+806,7,4,1,AA,40,Los Angeles CA,California,New York NY,New York,-1,18,12,0,342,2475,16,471
+807,7,5,2,AA,40,Los Angeles CA,California,New York NY,New York,0,25,-4,0,325,2475,10,986
+808,7,6,3,AA,40,Los Angeles CA,California,New York NY,New York,37,85,102,0,394,2475,2,847
+809,7,7,4,AA,40,Los Angeles CA,California,New York NY,New York,7,18,6,0,328,2475,15,265
+810,7,8,5,AA,40,Los Angeles CA,California,New York NY,New York,15,30,47,0,361,2475,18,882
+811,7,9,6,AA,40,Los Angeles CA,California,New York NY,New York,-2,29,17,0,348,2475,8,774
+812,7,10,7,AA,40,Los Angeles CA,California,New York NY,New York,71,12,60,0,318,2475,13,118
+813,7,11,1,AA,40,Los Angeles CA,California,New York NY,New York,0,27,8,0,337,2475,17,781
+814,7,12,2,AA,40,Los Angeles CA,California,New York NY,New York,-1,17,1,0,331,2475,11,445
+815,7,13,3,AA,40,Los Angeles CA,California,New York NY,New York,-1,21,47,0,377,2475,1,452
+816,7,14,4,AA,40,Los Angeles CA,California,New York NY,New York,1,34,31,0,359,2475,11,300
+817,7,15,5,AA,40,Los Angeles CA,California,New York NY,New York,17,14,37,0,349,2475,1,193
+818,7,16,6,AA,40,Los Angeles CA,California,New York NY,New York,0,60,64,0,393,2475,8,310
+819,7,17,7,AA,40,Los Angeles CA,California,New York NY,New York,25,14,71,0,375,2475,14,374
+820,7,18,1,AA,40,Los Angeles CA,California,New York NY,New York,13,59,108,0,424,2475,13,889
+821,7,19,2,AA,40,Los Angeles CA,California,New York NY,New York,5,17,3,0,327,2475,12,982
+822,7,20,3,AA,40,Los Angeles CA,California,New York NY,New York,11,13,15,0,333,2475,9,452
+823,7,21,4,AA,40,Los Angeles CA,California,New York NY,New York,-2,17,7,0,338,2475,6,939
+824,7,22,5,AA,40,Los Angeles CA,California,New York NY,New York,-1,26,9,0,339,2475,13,570
+825,7,23,6,AA,40,Los Angeles CA,California,New York NY,New York,-2,23,16,0,347,2475,4,474
+826,7,24,7,AA,40,Los Angeles CA,California,New York NY,New York,-1,35,12,0,342,2475,3,616
+827,7,25,1,AA,40,Los Angeles CA,California,New York NY,New York,16,13,9,0,322,2475,5,577
+828,7,26,2,AA,40,Los Angeles CA,California,New York NY,New York,-6,24,16,0,351,2475,0,258
+829,7,27,3,AA,40,Los Angeles CA,California,New York NY,New York,1,48,95,0,423,2475,0,179
+830,7,28,4,AA,40,Los Angeles CA,California,New York NY,New York,-4,16,-13,0,320,2475,17,816
+831,7,29,5,AA,40,Los Angeles CA,California,New York NY,New York,5,17,2,0,326,2475,17,770
+832,7,30,6,AA,40,Los Angeles CA,California,New York NY,New York,6,20,-6,0,317,2475,0,144
+833,7,31,7,AA,40,Los Angeles CA,California,New York NY,New York,-3,18,9,0,341,2475,5,491
+834,7,1,5,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-4,22,-4,0,346,2454,0,651
+835,7,2,6,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-4,17,0,0,350,2454,7,653
+836,7,3,7,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-1,10,-12,0,335,2454,15,152
+837,7,4,1,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,2,11,-6,0,338,2454,17,226
+838,7,5,2,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-2,23,-2,0,346,2454,9,173
+839,7,6,3,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,17,41,28,0,357,2454,2,570
+840,7,7,4,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-2,26,6,0,354,2454,4,198
+841,7,8,5,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-5,25,-14,0,337,2454,15,763
+842,7,9,6,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,3,19,-4,0,339,2454,2,385
+843,7,10,7,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,9,13,-14,0,323,2454,18,429
+844,7,11,1,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-5,23,-9,0,342,2454,6,706
+845,7,12,2,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-1,32,-11,0,336,2454,8,525
+846,7,13,3,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,114,77,147,0,379,2454,4,725
+847,7,14,4,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,5,13,-8,0,333,2454,9,511
+848,7,15,5,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-3,37,-6,0,343,2454,11,596
+849,7,16,6,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,3,15,-14,0,329,2454,6,441
+850,7,17,7,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,1,29,7,0,352,2454,12,796
+851,7,18,1,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,15,41,30,0,361,2454,14,764
+852,7,19,2,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,0,34,0,0,346,2454,8,351
+853,7,20,3,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-6,18,-3,0,349,2454,4,916
+854,7,21,4,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,1,22,-2,0,343,2454,2,161
+855,7,22,5,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-9,27,3,0,358,2454,15,359
+856,7,23,6,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-4,16,-21,0,329,2454,12,768
+857,7,24,7,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-2,15,-5,0,343,2454,16,967
+858,7,25,1,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,83,119,194,0,457,2454,5,660
+859,7,26,2,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,39,41,47,0,354,2454,4,117
+860,7,27,3,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,6,32,31,0,371,2454,7,949
+861,7,28,4,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,2,31,2,0,346,2454,13,344
+862,7,29,5,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,2,31,21,0,365,2454,3,306
+863,7,30,6,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-5,16,-8,0,343,2454,11,712
+864,7,31,7,AA,43,Newark NJ,New Jersey,Los Angeles CA,California,-1,17,-12,0,335,2454,19,467
+865,7,1,5,AA,58,Honolulu HI,Hawaii,San Jose CA,California,0,28,9,0,312,2416,19,284
+866,7,1,5,AA,59,New York NY,New York,San Francisco CA,California,-4,37,12,0,382,2586,11,770
+867,7,2,6,AA,59,New York NY,New York,San Francisco CA,California,-11,28,-3,0,374,2586,15,619
+868,7,3,7,AA,59,New York NY,New York,San Francisco CA,California,-7,24,-9,0,364,2586,10,828
+869,7,4,1,AA,59,New York NY,New York,San Francisco CA,California,-1,27,-8,0,359,2586,11,473
+870,7,5,2,AA,59,New York NY,New York,San Francisco CA,California,-2,28,-2,0,366,2586,17,973
+871,7,6,3,AA,59,New York NY,New York,San Francisco CA,California,-4,24,-4,0,366,2586,12,432
+872,7,7,4,AA,59,New York NY,New York,San Francisco CA,California,-5,43,8,0,379,2586,10,113
+873,7,8,5,AA,59,New York NY,New York,San Francisco CA,California,1,34,-5,0,360,2586,11,174
+874,7,9,6,AA,59,New York NY,New York,San Francisco CA,California,-1,33,-7,0,360,2586,8,913
+875,7,10,7,AA,59,New York NY,New York,San Francisco CA,California,-7,34,-9,0,364,2586,15,717
+876,7,11,1,AA,59,New York NY,New York,San Francisco CA,California,0,28,-18,0,348,2586,4,656
+877,7,12,2,AA,59,New York NY,New York,San Francisco CA,California,1,26,-30,0,335,2586,3,385
+878,7,13,3,AA,59,New York NY,New York,San Francisco CA,California,1,30,-24,0,341,2586,7,662
+879,7,14,4,AA,59,New York NY,New York,San Francisco CA,California,3,28,-26,0,337,2586,5,865
+880,7,15,5,AA,59,New York NY,New York,San Francisco CA,California,-3,43,-14,0,355,2586,11,982
+881,7,16,6,AA,59,New York NY,New York,San Francisco CA,California,0,0,0,1,0,2586,3,667
+882,7,17,7,AA,59,New York NY,New York,San Francisco CA,California,32,59,61,0,395,2586,9,819
+883,7,18,1,AA,59,New York NY,New York,San Francisco CA,California,0,30,1,0,367,2586,7,227
+884,7,19,2,AA,59,New York NY,New York,San Francisco CA,California,-5,23,-10,0,361,2586,3,427
+885,7,20,3,AA,59,New York NY,New York,San Francisco CA,California,-4,32,-11,0,359,2586,14,973
+886,7,21,4,AA,59,New York NY,New York,San Francisco CA,California,41,50,44,0,369,2586,19,753
+887,7,22,5,AA,59,New York NY,New York,San Francisco CA,California,-5,38,8,0,379,2586,14,698
+888,7,23,6,AA,59,New York NY,New York,San Francisco CA,California,-4,35,-18,0,352,2586,19,331
+889,7,24,7,AA,59,New York NY,New York,San Francisco CA,California,-4,31,-12,0,358,2586,1,120
+890,7,25,1,AA,59,New York NY,New York,San Francisco CA,California,-8,39,27,0,401,2586,11,352
+891,7,26,2,AA,59,New York NY,New York,San Francisco CA,California,-6,35,-2,0,370,2586,6,820
+892,7,27,3,AA,59,New York NY,New York,San Francisco CA,California,5,25,9,0,370,2586,18,242
+893,7,28,4,AA,59,New York NY,New York,San Francisco CA,California,-5,49,30,0,401,2586,11,315
+894,7,29,5,AA,59,New York NY,New York,San Francisco CA,California,-4,40,20,0,390,2586,12,879
+895,7,30,6,AA,59,New York NY,New York,San Francisco CA,California,-3,26,-12,0,357,2586,13,281
+896,7,31,7,AA,59,New York NY,New York,San Francisco CA,California,-9,19,-21,0,354,2586,1,548
+897,7,1,5,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,3,59,34,0,169,802,6,276
+898,7,2,6,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,20,17,2,0,120,802,4,493
+899,7,3,7,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,35,13,27,0,130,802,3,950
+900,7,4,1,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-2,30,12,0,152,802,1,751
+901,7,5,2,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-2,18,-11,0,129,802,17,402
+902,7,6,3,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-1,17,-16,0,123,802,4,141
+903,7,7,4,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,39,12,23,0,122,802,14,824
+904,7,8,5,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,0,17,-6,0,132,802,2,765
+905,7,9,6,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,8,14,-6,0,124,802,8,739
+906,7,10,7,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-2,16,28,0,168,802,16,953
+907,7,11,1,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-5,18,6,0,149,802,14,532
+908,7,12,2,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,30,23,23,0,131,802,16,881
+909,7,13,3,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,2,13,-1,0,135,802,5,867
+910,7,14,4,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,25,12,9,0,122,802,16,994
+911,7,15,5,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,0,15,-11,0,127,802,17,502
+912,7,16,6,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-1,12,-14,0,125,802,19,798
+913,7,17,7,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,31,18,24,0,131,802,10,197
+914,7,18,1,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,0,79,54,0,192,802,19,752
+915,7,19,2,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,1,12,-3,0,134,802,5,780
+916,7,20,3,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,30,128,151,0,259,802,16,707
+917,7,21,4,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,4,16,-5,0,129,802,1,852
+918,7,22,5,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,53,11,38,0,123,802,16,735
+919,7,23,6,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,0,12,-11,0,127,802,15,181
+920,7,24,7,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,88,10,66,0,116,802,6,311
+921,7,25,1,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,33,36,49,0,154,802,4,487
+922,7,26,2,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-1,69,44,0,183,802,8,427
+923,7,27,3,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-2,20,-1,0,139,802,8,387
+924,7,28,4,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-2,18,-14,0,126,802,15,781
+925,7,29,5,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,-2,14,-10,0,130,802,19,256
+926,7,30,6,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,0,10,6,0,144,802,8,755
+927,7,31,7,AA,66,Dallas/Fort Worth TX,Texas,Chicago IL,Illinois,0,0,0,1,0,802,1,458
+928,7,1,5,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,56,19,61,0,152,802,11,714
+929,7,2,6,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,-3,27,-3,0,147,802,5,256
+930,7,3,7,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,102,26,92,0,137,802,5,868
+931,7,4,1,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,-2,21,-4,0,145,802,9,731
+932,7,5,2,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,87,24,88,0,148,802,13,106
+933,7,6,3,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,-3,36,2,0,152,802,15,426
+934,7,7,4,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,92,24,129,0,184,802,16,452
+935,7,8,5,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,3,26,-9,0,135,802,15,380
+936,7,9,6,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,-1,18,-21,0,127,802,5,857
+937,7,10,7,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,10,17,-2,0,135,802,10,388
+938,7,11,1,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,88,21,76,0,135,802,6,195
+939,7,12,2,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,36,51,56,0,167,802,4,792
+940,7,13,3,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,8,14,-8,0,131,802,14,209
+941,7,14,4,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,4,27,5,0,148,802,16,360
+942,7,15,5,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,118,30,180,0,209,802,7,624
+943,7,16,6,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,9,20,-3,0,135,802,2,295
+944,7,17,7,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,2,19,8,0,153,802,4,105
+945,7,18,1,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,1,33,11,0,157,802,12,636
+946,7,19,2,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,11,22,3,0,139,802,16,422
+947,7,20,3,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,86,17,73,0,134,802,13,165
+948,7,21,4,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,37,26,30,0,140,802,16,240
+949,7,22,5,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,89,12,66,0,124,802,8,993
+950,7,23,6,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,-5,22,0,0,152,802,19,225
+951,7,24,7,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,0,27,8,0,155,802,14,252
+952,7,25,1,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,-1,14,-23,0,125,802,2,853
+953,7,26,2,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,12,76,45,0,180,802,6,188
+954,7,27,3,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,0,17,-12,0,135,802,18,469
+955,7,28,4,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,17,18,3,0,133,802,2,666
+956,7,29,5,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,35,22,27,0,139,802,14,647
+957,7,30,6,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,31,26,13,0,129,802,7,235
+958,7,31,7,AA,67,Chicago IL,Illinois,Dallas/Fort Worth TX,Texas,0,0,0,1,0,802,1,516
+959,7,1,5,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-6,21,-19,0,479,4244,4,456
+960,7,2,6,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-2,16,-16,0,478,4244,18,462
+961,7,3,7,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,15,-16,0,479,4244,9,128
+962,7,4,1,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-8,21,-15,0,485,4244,3,451
+963,7,5,2,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,25,11,17,0,484,4244,0,878
+964,7,6,3,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,5,16,12,0,499,4244,18,103
+965,7,7,4,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,15,16,7,0,484,4244,0,623
+966,7,8,5,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,13,5,0,500,4244,9,703
+967,7,9,6,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-4,17,-4,0,492,4244,9,568
+968,7,10,7,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-6,19,-6,0,492,4244,4,930
+969,7,11,1,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-5,14,-4,0,493,4244,17,843
+970,7,12,2,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-6,13,-11,0,487,4244,3,606
+971,7,13,3,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-8,20,11,0,511,4244,19,256
+972,7,14,4,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-1,14,25,0,518,4244,16,526
+973,7,15,5,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,12,8,0,503,4244,13,696
+974,7,16,6,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-4,14,2,0,498,4244,12,857
+975,7,17,7,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,0,17,-8,0,484,4244,13,224
+976,7,18,1,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,15,-8,0,487,4244,12,627
+977,7,19,2,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,18,1,0,496,4244,7,662
+978,7,20,3,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-5,15,-6,0,491,4244,13,195
+979,7,21,4,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-6,22,-5,0,493,4244,19,125
+980,7,22,5,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-4,15,-7,0,489,4244,17,788
+981,7,23,6,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-5,14,-13,0,484,4244,13,158
+982,7,24,7,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-2,16,-11,0,483,4244,3,303
+983,7,25,1,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,15,-7,0,488,4244,17,661
+984,7,26,2,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,19,-14,0,481,4244,10,912
+985,7,27,3,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-4,17,-17,0,479,4244,8,948
+986,7,28,4,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-5,19,-4,0,493,4244,13,204
+987,7,29,5,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,0,19,-3,0,489,4244,18,527
+988,7,30,6,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-5,13,-15,0,482,4244,14,961
+989,7,31,7,AA,72,Honolulu HI,Hawaii,Chicago IL,Illinois,-3,14,-13,0,482,4244,18,742
+990,7,1,5,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-5,15,4,0,549,4244,9,334
+991,7,2,6,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-5,14,-1,0,544,4244,1,653
+992,7,3,7,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-4,19,8,0,552,4244,17,999
+993,7,4,1,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-5,10,-1,0,544,4244,2,869
+994,7,5,2,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-5,18,-1,0,544,4244,0,211
+995,7,6,3,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-3,13,-20,0,523,4244,13,414
+996,7,7,4,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,166,11,146,0,520,4244,1,979
+997,7,8,5,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-3,12,-24,0,519,4244,15,705
+998,7,9,6,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,0,9,-29,0,511,4244,5,732
+999,7,10,7,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-1,13,-31,0,510,4244,12,216
+1000,7,11,1,AA,73,Chicago IL,Illinois,Honolulu HI,Hawaii,-5,21,-13,0,532,4244,8,522
